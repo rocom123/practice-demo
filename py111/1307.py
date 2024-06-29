@@ -1,0 +1,6 @@
+x=float(input())
+a=float(input())
+b=float(input())
+c=float(input())
+d=float(input())
+print(f"{a*(x*x*x)+b*(x*x)+c*x+d:.7f}")
